@@ -1,4 +1,4 @@
-# iCode
+# iCode 1.0
 
 General idea of the content:
 
