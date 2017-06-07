@@ -8,5 +8,5 @@ General idea of the content:
 > curriculum for iCode 1.0
 > .......modules of instruction
 
-> software requirements
+> software requirements & 
 > hardware requirements
